@@ -20,7 +20,7 @@ Actualmente resido en **Málaga, España**, y me encuentro desarrollando proyect
 ## 🛠️ Proyecto Destacado
 
 ### 📌 Practica1
-> Proyecto desarrollado en Java. En este proyecto he escrito cidog muy basico en Java, hay varios ejemplos de programas básicos y de entrada de datos.
+> Proyecto desarrollado en Java. En este proyecto he escrito codigo muy basico en Java, hay varios ejemplos de programas básicos y de entrada de datos.
 
 🔗 [Enlace al repositorio del proyecto](https://github.com/ftor22-es/Practica1)
 
