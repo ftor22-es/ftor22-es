@@ -13,13 +13,12 @@ Actualmente resido en **Málaga, España**, y me encuentro desarrollando proyect
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-%23007ACC?style=for-the-badge&logo=code&logoColor=white)
 
 ---
 
 ## 🛠️ Proyecto Destacado
 
-### 📌 Practica1
+### 📌 Practica13
 > Proyecto desarrollado en Java. En este proyecto he escrito codigo muy basico en Java, hay varios ejemplos de programas básicos y de entrada de datos.
 
 🔗 [Enlace al repositorio del proyecto](https://github.com/ftor22-es/Practica13)
