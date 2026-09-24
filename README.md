@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Fran
 
-Soy estudiante de **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)** con una gran pasión por el desarrollo de software, especialmente en **Java**. Anteriormente, completé un **Grado Medio en Sistemas Microinformáticos y Redes (SMR)**, lo que me ha dado una buena base tanto en hardware como en redes.
+Soy estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** con una gran pasión por el desarrollo de software, especialmente en **Java**. Anteriormente, completé un **Grado Medio en Sistemas Microinformáticos y Redes (SMR)**, lo que me ha dado una buena base tanto en hardware como en redes.
 
 Actualmente resido en **Málaga, España**, y me encuentro desarrollando proyectos que me ayuden a afianzar mis conocimientos y crecer como programador.
 
